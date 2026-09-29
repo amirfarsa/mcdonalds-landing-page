@@ -861,7 +861,7 @@ footer{
 }
 .link_footer ul li a{
     color: inherit;
-    animation-iteration-count: ;
+    /* animation-iteration-count: ; */
 }
 
 .fade-up-animation, .fade-down-animation, .fade-left-animation, .fade-right-animation {
