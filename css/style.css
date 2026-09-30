@@ -787,6 +787,9 @@ img{
 .content_search_location form input:focus {
     outline: none;
 }
+*{
+    break-inside: avoid;
+}
 .content_search_location form button{
     background-color: var(--color_fff);
     border-radius: 100px;
